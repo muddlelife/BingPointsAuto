@@ -1,0 +1,2 @@
+# BingPointsAuto
+利用edge浏览器自动获取bing搜索引擎积分

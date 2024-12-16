@@ -1,0 +1,17 @@
+# 忽略 Python 的字节码文件
+__pycache__/
+*.pyc
+
+# 忽略虚拟环境
+.venv/
+env/
+
+# 忽略 IDE 配置文件
+.idea/
+.vscode/
+
+# 忽略日志文件
+*.log
+
+# 忽略数据库文件
+*.sqlite3
